@@ -1,3 +1,5 @@
+ Reading Text Files Task
+
 # Read text from a file, and count the occurence of words in that text
 # Example:
 # count_words("The cake is done. It is a big cake!") 
